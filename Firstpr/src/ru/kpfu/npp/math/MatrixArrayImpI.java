@@ -3,7 +3,7 @@ package ru.kpfu.npp.math;
 /**
  * Created by Данияр on 15.03.14.
  */
-public class MatrixArrayImpI {
+public class MatrixArrayImpI implements Matrix{
     //поле класса
     private int[][] matrix;
 
